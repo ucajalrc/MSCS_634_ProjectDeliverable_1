@@ -2,8 +2,8 @@
 ### **MSCS 634 – Big Data and Data Mining**
 
 **Deliverable 1: Data Collection, Cleaning, and Exploration**
-**Student:** Ajal RC
-**Instructor:** Satish Penmatsa
+**Student:** Ajal RC <br>
+**Instructor:** Satish Penmatsa <br>
 **Date:** November 2, 2025
 
 ---
@@ -18,6 +18,7 @@ Each record includes details such as:
 
 This dataset is highly suitable for a data mining project because it allows exploration of **regression** (e.g., predicting revenue), **classification** (e.g., return vs. non-return orders), **clustering** (e.g., customer segmentation), and **association rule mining** (e.g., product co-purchase patterns).
 
+NOTE: The original dataset (~94 MB) was compressed (online_retail_II.zip) to remain within GitHub size limits. The notebook automatically reads the zipped file, so no manual extraction is needed.
 ---
 
 ### **Major Steps in Data Cleaning and Exploration**
